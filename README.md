@@ -6,7 +6,7 @@ My solutions for [Advent of Code 2021](https://adventofcode.com/2021/).
 | Day | Part 1 | Part 2 | Source |
 |:---:|:------:|:------:|:------:|
 | [01](https://adventofcode.com/2021/day/1) | :star: | :star: | [:page_facing_up:](https://github.com/hmludwig/aoc2021/blob/main/src/day01.py)
-| [02](https://adventofcode.com/2021/day/2) |  |  | 
+| [02](https://adventofcode.com/2021/day/2) | :star: | :star: | [:page_facing_up:](https://github.com/hmludwig/aoc2021/blob/main/src/day02.py)
 | [03](https://adventofcode.com/2021/day/3) |  |  | 
 | [04](https://adventofcode.com/2021/day/4) |  |  | 
 | [05](https://adventofcode.com/2021/day/5) |  |  | 
