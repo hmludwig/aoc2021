@@ -13,7 +13,6 @@ for i in range(1, len(data), 2):
         depth -= int(data[i])
 
 part1 = h_pos * depth
-
 print(f'{part1 = }')
 
 h_pos, depth, aim = 0, 0, 0
