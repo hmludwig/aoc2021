@@ -29,5 +29,6 @@ for d in data:
             tmp += scores2[closing_chars[x]]
         part2.append(tmp)
 part2 = statistics.median(part2)
+
 print(f'{part1 = }')
 print(f'{part2 = }')
