@@ -17,7 +17,7 @@ My solutions for [Advent of Code 2021](https://adventofcode.com/2021/).
 | [10](https://adventofcode.com/2021/day/10) | :star: | :star: | [:page_facing_up:](https://github.com/hmludwig/aoc2021/blob/main/src/day10.py)
 | [11](https://adventofcode.com/2021/day/11) | :star: | :star: | [:page_facing_up:](https://github.com/hmludwig/aoc2021/blob/main/src/day11.py)
 | [12](https://adventofcode.com/2021/day/12) | :star: | :star: | [:page_facing_up:](https://github.com/hmludwig/aoc2021/blob/main/src/day12.py)
-| [13](https://adventofcode.com/2021/day/13) |  |  | 
+| [13](https://adventofcode.com/2021/day/13) | :star: | :star: | [:page_facing_up:](https://github.com/hmludwig/aoc2021/blob/main/src/day13.py)
 | [14](https://adventofcode.com/2021/day/14) |  |  | 
 | [15](https://adventofcode.com/2021/day/15) |  |  | 
 | [16](https://adventofcode.com/2021/day/16) |  |  | 
